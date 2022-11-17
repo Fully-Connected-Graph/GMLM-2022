@@ -4,4 +4,4 @@ Download the baseline solution by downloading the repo (Code > Download ZIP) or 
 
 | Lecture | Notebook | Presentation |
 | ------- | -------- | ------------ |
-|Intro to ML with Sklearn| [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fully-Connected-Graph/GMLM-2022/blob/main/lecture1/notebook.ipynb) | |
+|Intro to ML with Sklearn| [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fully-Connected-Graph/GMLM-2022/blob/main/lecture1/notebook.ipynb) | [slides](https://docs.google.com/presentation/d/12W3dJVraRcY86zunLP3Pe0vJVgjzCsWr2IpChIkxzPQ/edit?usp=sharing) |
