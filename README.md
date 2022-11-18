@@ -1,7 +1,24 @@
 # Groningen Machine Learning Month 2022
 
-Download the baseline solution by downloading the repo (Code > Download ZIP) or open it straight in [Google Colab](https://colab.research.google.com/github/Fully-Connected-Graph/GMLC-2022/blob/main/baseline_solution.ipynb).
+Download the baseline solution [here][1] or open it straight in [Google Colab][2].
 
-| Lecture | Notebook | Presentation |
-| ------- | -------- | ------------ |
-|Intro to ML with Sklearn| [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fully-Connected-Graph/GMLM-2022/blob/main/lecture1/notebook.ipynb) [![Solutions](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f6AgLVId-1d1gQ72hN6Nae0IOf_1kuTM?usp=share_link) | [slides](https://docs.google.com/presentation/d/12W3dJVraRcY86zunLP3Pe0vJVgjzCsWr2IpChIkxzPQ/edit?usp=sharing) |
+| Lecture | Notebook | Solutions | Slides |
+| ------- | -------- | --------- |------- |
+| Intro to ML with Sklearn | [![Notebook][0]][3] | [![Solutions][0]][4] | [slides][5] |
+
+
+[0]: https://colab.research.google.com/assets/colab-badge.svg
+[1]: https://fully-connected-graph.github.io/GMLM-2022/baseline_solution.ipynb
+[2]: https://colab.research.google.com/github/Fully-Connected-Graph/GMLC-2022/blob/main/baseline_solution.ipynb
+
+[3]: https://colab.research.google.com/github/Fully-Connected-Graph/GMLM-2022/blob/main/lecture1/notebook.ipynb
+[4]: https://colab.research.google.com/github/Fully-Connected-Graph/GMLM-2022/blob/main/lecture1/solution.ipynb
+[5]: https://fully-connected-graph.github.io/GMLM-2022/lecture1/slides.pdf
+
+[6]: https://colab.research.google.com/github/Fully-Connected-Graph/GMLM-2022/blob/main/lecture2/notebook.ipynb
+[7]: https://colab.research.google.com/github/Fully-Connected-Graph/GMLM-2022/blob/main/lecture2/solution.ipynb
+[8]: https://fully-connected-graph.github.io/GMLM-2022/lecture2/slides.pdf
+
+[9]: https://colab.research.google.com/github/Fully-Connected-Graph/GMLM-2022/blob/main/lecture3/notebook.ipynb
+[10]: https://colab.research.google.com/github/Fully-Connected-Graph/GMLM-2022/blob/main/lecture3/solution.ipynb
+[11]: https://fully-connected-graph.github.io/GMLM-2022/lecture3/slides.pdf
