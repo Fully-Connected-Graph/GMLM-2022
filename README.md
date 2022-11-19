@@ -4,7 +4,7 @@ Download the baseline solution [here][1] or open it straight in [Google Colab][2
 
 | Lecture | Notebook | Solutions | Slides |
 | ------- | -------- | --------- |------- |
-| Intro to ML with Sklearn | [![Notebook][0]][3] | [![Solutions][0]][4] | [slides][5] |
+| Intro to ML with Sklearn | [![Notebook][0]][3] | [![Solutions][0]][4] | [Slides][5] |
 
 
 [0]: https://colab.research.google.com/assets/colab-badge.svg
