@@ -6,7 +6,7 @@ Download the baseline solution [here][1] or open it straight in [Google Colab][2
 | ------- | -------- | --------- | ------ | --------- |
 | Intro to ML with Sklearn | [![Notebook][0]][3] | [![Solutions][0]][4] | [Slides][5] | [Recording][12] |
 | Intro to Natural Language Processing | [![Notebook][0]][6] | In the notebook |  | |
-| Intro to Neural Networks |  |  |  | |
+| Intro to Neural Networks | [![Notebook][0]][9] |  |  | |
 
 
 [0]: https://colab.research.google.com/assets/colab-badge.svg
