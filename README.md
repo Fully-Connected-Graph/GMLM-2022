@@ -8,6 +8,7 @@ Download the baseline solution [here][1] or open it straight in [Google Colab][2
 | Intro to Natural Language Processing | [![Notebook][0]][6] | In the notebook |  | |
 | Intro to Neural Networks | [![Notebook][0]][9] | [![Solution][0]][10] | [Slides][11] |  |
 
+[finale](https://docs.google.com/presentation/d/1WEgJHCgGAveGtcd3wfK4JqceGvxcv77kzfMWczID4r4/edit?usp=sharing)
 
 [0]: https://colab.research.google.com/assets/colab-badge.svg
 [1]: https://fully-connected-graph.github.io/GMLM-2022/baseline_solution.ipynb
