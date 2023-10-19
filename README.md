@@ -5,7 +5,7 @@ Download the baseline solution [here][1] or open it straight in [Google Colab][2
 | Lecture | Notebook | Solutions | Slides | Recording |
 | ------- | -------- | --------- | ------ | --------- |
 | Intro to ML with Sklearn | [![Notebook][0]][3] | [![Solutions][0]][4] | [Slides][5] | [Recording][12] |
-| Intro to Natural Language Processing | [![Notebook][0]][6] | In the notebook |  | |
+| Intro to Natural Language Processing | [![Notebook][0]][6] | In the notebook |  | [Recording](https://www.youtube.com/watch?v=iOHh0aLAAkk&ab_channel=MansurNurmukhambetov)|
 | Intro to Neural Networks | [![Notebook][0]][9] | [![Solution][0]][10] | [Slides][11] |  |
 
 [finale](https://docs.google.com/presentation/d/1WEgJHCgGAveGtcd3wfK4JqceGvxcv77kzfMWczID4r4/edit?usp=sharing)
